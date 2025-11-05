@@ -29,15 +29,15 @@ A simple and intuitive app to help roommates coordinate tasks, groceries, messag
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Activity
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meiivis&show_icons=true&hide_border=true&theme=graywhite)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=meiivis&theme=minimal&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meiivis&layout=compact&hide_border=true&theme=graywhite)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=meiivis&theme=default&hide_border=true)
 
 </div>
-
 ---
 
 ### 🌱 Small Things I Like
