@@ -1,33 +1,40 @@
-# Hi, I'm Mavis (meiivis) 👋
+# Hi, I'm Mavis  👋
 
 I study **Computer and Data Science** and I like building things that feel useful and alive.  
 Currently based in Paris. I enjoy working at the intersection of **software**, **systems**, and **data**.
 
----
 
-### 💭 What I’m interested in
+### 💭 Interests
+
 - Full-stack development & product-driven engineering  
 - Data modeling, machine learning systems, and performance tuning  
-- Human-centered design and cultural tech ideas
+- Human-centered design and cultural-tech ideas
 
----
+
+<br><br>
+
 
 ### 🛠 Tech Stack
-**Languages:** Python, JavaScript, C  
+
+**Languages:** Python, JavaScript, TypeScript, C  
 **Frameworks & Tools:** React, Node.js, Express, MongoDB, PyTorch, ROS2  
 **Other:** Git, Figma, Docker, Linux
 
----
+
+<br><br>
+
 
 ### 📌 Featured Project
 
-#### 🏠 Habita — Roommate coordination web app  
-A simple and intuitive app to help roommates coordinate tasks, groceries, messages, and shared living.  
-**Tech:** MERN stack (MongoDB, Express, React, Node.js)
+<div align="center">
 
-[→ View Project](https://github.com/agile-students-fall2025/4-final-habita.git)
+[![Habita](https://github-readme-stats.vercel.app/api/pin/?username=agile-students-fall2025&repo=4-final-habita&theme=graywhite&hide_border=true)](https://github.com/agile-students-fall2025/4-final-habita)
 
----
+</div>
+
+
+<br><br>
+
 
 ### 📈 Activity
 
@@ -35,14 +42,13 @@ A simple and intuitive app to help roommates coordinate tasks, groceries, messag
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=meiivis&theme=minimal&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=meiivis&theme=default&hide_border=true)
-
 </div>
----
 
-### 🌱 Small Things I Like
-- Longboarding & learning new boardsports  
-- Slow museums, fast debugging  
-- Music while coding, people-watching in cafés
 
-Thanks for stopping by 🫶
+<br><br>
+
+
+### 🐾
+<div align="center">
+(=^･ω･^=) coding quietly
+</div>
