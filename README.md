@@ -31,8 +31,6 @@ Agile / Scrum, Classifier Design, Statistical Modeling
 Data Cleaning & Standardization  
 
 ---
-
-### 🐾
 <p align="center">
 (=^･ω･^=)
 </p>
