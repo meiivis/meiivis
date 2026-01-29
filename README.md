@@ -21,23 +21,6 @@ Currently based in Paris. I enjoy working at the intersection of **software**, *
 **Other:** Git, Figma, Docker, Linux
 
 
-<br><br>
-
-
-### 📌 Featured Project
-
-<div align="center">
-
-[![Habita](https://github-readme-stats.vercel.app/api/pin/?username=agile-students-fall2025&repo=4-final-habita&theme=graywhite&hide_border=true)](https://github.com/agile-students-fall2025/4-final-habita)
-
-</div>
-
-
-<br><br>
-
-
-
-
 
 <br><br>
 
