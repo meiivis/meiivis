@@ -1,31 +1,38 @@
-# Hi, I'm Mavis  👋
+## 👋 Hi, I’m Mavis
 
-I study **Computer and Data Science** and I like building things that feel useful and alive.  
-Currently based in Paris. I enjoy working at the intersection of **software**, **systems**, and **data**.
+I study **Computer and Data Science** and enjoy building things that feel useful and alive.  
+I like working at the intersection of **software**, **systems**, and **data**.
 
+🌍 **Shanghai → New York → Paris → New York**
+
+---
 
 ### 💭 Interests
-
 - Full-stack development & product-driven engineering  
-- Data modeling, machine learning systems, and performance tuning  
-- Human-centered design and cultural-tech ideas
+- Data modeling, ML systems, and performance tuning  
+- Human-centered design and cultural-tech ideas  
 
-
-<br><br>
-
+---
 
 ### 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, C  
-**Frameworks & Tools:** React, Node.js, Express, MongoDB, PyTorch, ROS2  
-**Other:** Git, Figma, Docker, Linux
+**Languages**  
+Python, JavaScript, C, C++, C#, Java, Assembly, SQL, VBA  
 
+**Frameworks & Libraries**  
+PyTorch, Scikit-learn, React.js, Pandas, NumPy, Matplotlib, Seaborn  
 
+**Tools & Platforms**  
+Git, GitHub, VS Code, Docker, Linux, Figma  
+Tableau, Power BI, Excel (Power Query, Python-in-Excel)  
 
-<br><br>
+**Methods**  
+Agile / Scrum, Classifier Design, Statistical Modeling  
+Data Cleaning & Standardization  
 
+---
 
 ### 🐾
-<div align="center">
-(=^･ω･^=) 
-</div>
+<p align="center">
+(=^･ω･^=)
+</p>
