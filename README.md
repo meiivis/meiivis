@@ -36,13 +36,7 @@ Currently based in Paris. I enjoy working at the intersection of **software**, *
 <br><br>
 
 
-### 📈 Activity
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=meiivis&theme=minimal&hide_border=true)
-
-</div>
 
 
 <br><br>
@@ -50,5 +44,5 @@ Currently based in Paris. I enjoy working at the intersection of **software**, *
 
 ### 🐾
 <div align="center">
-(=^･ω･^=) coding quietly
+(=^･ω･^=) 
 </div>
